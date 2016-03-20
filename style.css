@@ -1,0 +1,13 @@
+td {
+    width: 30px;
+    height: 30px;
+    vertical-align: middle;
+    text-align: center;
+    border: 1px solid black;
+}
+.pick {
+    background: red;
+}
+table {
+    display: inline-block;
+}

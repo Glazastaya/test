@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "description": "find a block of neighbor cells",
+  "main": "index.js",
+  "authors": [
+    "Nataliya Fominykh"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Glazastaya/test",
+  "moduleType": [],
+  "dependencies": {
+    "jquery": "^2.2.2"
+  }
+}
